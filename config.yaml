@@ -1,4 +1,4 @@
-baseurl: https://gisma-courses.github.io/your_repo
+baseurl: https://gisma-courses.github.io/gi-base
 publishDir: docs
 title: your title
 theme: hugo-theme-cleanwhite
@@ -54,12 +54,12 @@ params:
     - href: ''
       title: ''
   friends: no
-  header_image: assets/images/header.jpg
+  header_image: /images/header.jpg
   image_404: img/404-bg.jpg
   keyword: gisma
   leancloud_app_id: ''
   leancloud_app_key: ''
-  omit_categories: no
+  omit_categories: yes
   page_view_conter: no
   reward: no
   sidebar_about_description:  Instructor 
