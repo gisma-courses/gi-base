@@ -1,6 +1,7 @@
 baseurl: https://gisma-courses.github.io/gi-base
 publishDir: docs
 title: template course title
+subtitle: subtitle
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: ''
