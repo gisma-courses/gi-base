@@ -32,6 +32,8 @@ weight: 2
 *Source: [Dr. John Snow](https://en.wikipedia.org/wiki/John_Snow) [via wikimedia](https://w.wiki/QtV)*
 </div>
 
+## Rmarkdown examples
+
 ## highlight on the fly
 
 `r blogdown::shortcode("highlight", "bash", .content = "echo hello world;")`
@@ -69,10 +71,15 @@ xfun::embed_file('../../../static/cases/suisse1.html')
 ## link
 [Tobler 1970](https://www.jstor.org/stable/143141).
 
+## integration of local html content
 
 `r blogdown::shortcode("hp5", "/gi-base/cases/suisse1.html","700", "680","center" 
 
 ,"The blue dots are a typical example of irregularly distributed  points in space -- in this case, rain gauges in Switzerland. The overlaid  polygons are the corresponding Voronoi segments that define the corresponding closest geometrical areas (gisma 2021)")`
+
+
+<iframe src="https://gis-ma.org" title="Marburg University Website" width = "100%" height = "950px" allowfullscreen="true"> </iframe>
+
 
 
 # Syllabus
