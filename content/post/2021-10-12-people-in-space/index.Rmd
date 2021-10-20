@@ -15,5 +15,5 @@ image: '/images/header-cat2.jpg'
 weight: 3
 ---
 
-## Nothing here exept cat 2
+## Nothing here but cat 2
 
