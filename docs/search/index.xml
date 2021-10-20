@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Searches on your title</title>
+    <title>Searches on template course title</title>
     <link>https://gisma-courses.github.io/gi-base/search/</link>
-    <description>Recent content in Searches on your title</description>
+    <description>Recent content in Searches on template course title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://gisma-courses.github.io/gi-base/search/index.xml" rel="self" type="application/rss+xml" />
     <item>

@@ -1,5 +1,5 @@
 ---
-title: cat1
+title: Course one tagged with cat1 tag1
 author: Chris Reudenbach
 date: '2021-10-20'
 slug: []
@@ -8,7 +8,7 @@ categories:
 tags:
   - tag1
 toc: true
-subtitle: 'subtitle'
+subtitle: 'This is a template course one'
 description: 'description'
 image: '/images/header-cat1.jpg'
 weight: 3
