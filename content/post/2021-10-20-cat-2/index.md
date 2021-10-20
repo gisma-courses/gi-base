@@ -1,15 +1,14 @@
 ---
-title: 'starting page cat 2' 
+title: Course Two tagged with cat2 tag2
 author: Chris Reudenbach
 date: '2021-10-12'
 slug: []
 categories:
   - cat2
 tags:
-  - tag1
   - tag2
 toc: true
-subtitle: 'subtitle'
+subtitle: 'starting page cat 2'
 description: 'description'
 image: '/images/header-cat2.jpg'
 weight: 3
