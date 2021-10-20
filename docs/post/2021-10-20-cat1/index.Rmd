@@ -55,7 +55,7 @@ weight: 2
 ![Dr. John Snow's map of the 1854 cholera outbreak in Soho, London via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c7/Snow-cholera-map.jpg)
 
 ## link to local image
-![](/gi-base/assets/images/ML_interpol.png){width=100% height=100%}
+![](/assets/images/ML_interpol.png){width=100% height=100%}
 <figure>
   <figcaption> The original dataset (top left) is a terrain model reduced to 8 meters with 48384 single pixels. 
 For interpolation, 1448 points were randomly drawn and interpolated with conventional kriging (top right), support vector machines (SVM) (middle left), neural networks (middle right), and two variants of random forest (bottom row). In each method, only the distance of the drawn points is used as a dependency.   
