@@ -1,6 +1,8 @@
-{{$base := "/moc-rgis/assets/pdfs/web/viewer.html?file="}}
-{{$foo1 := .Get 0 }}
-{{$url := print $base $foo1  }}
+{{$repo := .Get 0 }}
+{{$viewer := "/assets/pdfs/web/viewer.html?file="}}
+{{$base := print "/" $repo $viewer }}
+{{$foo1 := .Get 1 }}
+{{$url := print $repo $foo1  }}
 {{print $url}}
 <!DOCTYPE html>
 <iframe id="pdf-js-viewer" src="{{$url}}" title="webviewer" align="center" frameborder="0" width="1000" height="800"></iframe>

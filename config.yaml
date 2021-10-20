@@ -59,7 +59,7 @@ params:
   keyword: gisma
   leancloud_app_id: ''
   leancloud_app_key: ''
-  omit_categories: yes
+  omit_categories: no
   page_view_conter: no
   reward: no
   sidebar_about_description:  Instructor 
