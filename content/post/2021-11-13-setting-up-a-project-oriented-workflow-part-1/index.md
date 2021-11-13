@@ -169,7 +169,7 @@ If you have questions or comments.  Please copy the corresponding line into your
   
 
 <script src="https://utteranc.es/client.js"
-        repo="[gisma-courses/gi-base]"
+        repo="[gisma-courses/gisma-courses.github.io]"
         issue-term="Setting up a project-oriented workflow - Part 1"
         theme="github-light"
         crossorigin="anonymous"
