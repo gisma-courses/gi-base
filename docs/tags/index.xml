@@ -6,29 +6,11 @@
     <description>Recent content in Tags on template course title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GI</title>
-      <link>https://gisma-courses.github.io/gi-base/tags/gi/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gisma-courses.github.io/gi-base/tags/gi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Setup</title>
-      <link>https://gisma-courses.github.io/gi-base/tags/setup/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gisma-courses.github.io/gi-base/tags/setup/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag1</title>
       <link>https://gisma-courses.github.io/gi-base/tags/tag1/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gisma-courses.github.io/gi-base/tags/tag1/</guid>
       <description></description>
