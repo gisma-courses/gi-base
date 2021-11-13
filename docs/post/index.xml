@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on template course title</title>
+    <link>https://gisma-courses.github.io/gi-modules/post/</link>
+    <description>Recent content in Posts on template course title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-modules/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>https://gisma-courses.github.io/gi-modules/post/2021-11-13-assignments/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-modules/post/2021-11-13-assignments/</guid>
+      <description>To start with, get yourself a GitHub account if you have not one already and create your learning log repository. Be aware that once the learning log repository is created, you will stick to this until the end of the course. {: .notice&amp;ndash;info}
+Once you have a GitHub account, you can create as many repositories as you like at your account and invite any team members you want. Within this course you will submit your solutions for the course assignments to a private GitHub-hosted learning log, i.</description>
+    </item>
+    
+    <item>
+      <title>Learning environment</title>
+      <link>https://gisma-courses.github.io/gi-modules/post/2021-11-13-learning-environment/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-modules/post/2021-11-13-learning-environment/</guid>
+      <description>Web-based learning environment Your primary learning environment is this publicly accessible homepage we create on GitHub. Here you will find learning materials, tasks, and support. Open questions can be asked at any time during the course or via comments/email. All questions will be discussed in a screencast or online (FAQ).
+Flexible learning with fixed deadlines The course schedule provides for a two-to four hour block. These events weíll be offered in classroom and as possible as live stream.</description>
+    </item>
+    
+    <item>
+      <title>Setting up a project-oriented workflow - Part 1</title>
+      <link>https://gisma-courses.github.io/gi-modules/post/2021-11-13-setting-up-a-project-oriented-workflow-part-1/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-modules/post/2021-11-13-setting-up-a-project-oriented-workflow-part-1/</guid>
+      <description>To set up a working or project environment, (normally) the first steps are defining different folder paths and loading the necessary R packages as well as additional functions.
+If you also need to access additional software, like GIS, the appropriate binaries and software environments must be linked, too. Factoring in the major operating systems and the potentially multiple versions of software installed on a single system results in almost unlimited combinations of set ups.</description>
+    </item>
+    
+  </channel>
+</rss>
