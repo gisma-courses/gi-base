@@ -79,7 +79,7 @@
                 {{ .Content }}
                 
                 
-                
+                {{ partial "sidebar.html" . }}
                {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
                 {{ end }}
