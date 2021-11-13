@@ -166,12 +166,7 @@ When in doubt (**and before asking your instructor ;-)**), ask Google! Not becau
 If you have questions or comments.  Please copy the corresponding line into your comment to make it easier to answer the question. 
 
   
-  
+  <div class="article-container"></div>
+{{ partial "comments.html" . }}
+</div>
 
-<script src="https://utteranc.es/client.js"
-        repo="[gisma-courses/gisma-courses.github.io]"
-        issue-term="Setting up a project-oriented workflow - Part 1"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
