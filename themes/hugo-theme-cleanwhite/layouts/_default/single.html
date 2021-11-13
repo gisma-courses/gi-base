@@ -78,7 +78,7 @@
                 -->
                 {{ .Content }}
                 
-                {{ partial "comments.html" . }} 
+                
                 
                {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
@@ -161,5 +161,5 @@
         </div>
     </div>
 </article>
-
+        {{ partial "comments.html" . }} 
 {{ end }}
