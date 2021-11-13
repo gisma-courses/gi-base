@@ -68,7 +68,6 @@
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 post-container">
-
                 <!--
                 {{ if not (eq (.Param "showtoc") false) }}
                 <header>
@@ -78,6 +77,17 @@
                 {{ end }}
                 -->
                 {{ .Content }}
+                
+                    <div class="col-12 col-lg-10ish article-style">     
+<script src="https://utteranc.es/client.js"
+        repo="gisma-courses/gi-base"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous" 
+        async>
+</script>
+</div>
+
 
                 {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}

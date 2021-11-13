@@ -57,5 +57,23 @@ Flexible learning with fixed deadlines The course schedule provides for a two-to
 If you also need to access additional software, like GIS, the appropriate binaries and software environments must be linked, too. Factoring in the major operating systems and the potentially multiple versions of software installed on a single system results in almost unlimited combinations of set ups.</description>
     </item>
     
+    <item>
+      <title>test</title>
+      <link>https://gisma-courses.github.io/gi-base/post/2021-11-13-test/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/post/2021-11-13-test/</guid>
+      <description>.uu.k.</description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>https://gisma-courses.github.io/gi-base/post/2021-11-13-test2/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/post/2021-11-13-test2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

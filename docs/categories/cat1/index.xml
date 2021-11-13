@@ -6,7 +6,7 @@
     <description>Recent content in cat1 on template course title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course one tagged with cat1 tag1</title>
       <link>https://gisma-courses.github.io/gi-base/post/2021-10-20-cat1/</link>
@@ -16,6 +16,15 @@
       <description>.myDiv {margin-top: -36px;margin-right: -34%; text-align: right;} Source: Dr. John Snow via wikimedia
  Rmarkdown examples  highlight on the fly echo hello world;  link to local pdf /gi-base/assets/pdfs/web/viewer.html?file=/gi-base/assets/pdfs/test.pdf   link to gist   link to web image Dr. John Snow’s map of the 1854 cholera outbreak in Soho, London via Wikimedia Commons
  link to local image   The original dataset (top left) is a terrain model reduced to 8 meters with 48384 single pixels.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://gisma-courses.github.io/gi-base/post/2021-11-13-test/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/post/2021-11-13-test/</guid>
+      <description>.uu.k.</description>
     </item>
     
   </channel>
