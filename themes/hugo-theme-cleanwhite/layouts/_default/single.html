@@ -78,6 +78,8 @@
                 -->
                 {{ .Content }}
                 
+                {{ partial "comments.html" . }} 
+                
                {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
                 {{ end }}
@@ -100,7 +102,7 @@
 
             </div>
             
-             {{ partial "comments.html" . }} 
+
             
             <!-- Side Catalog Container -->
             {{ if not (eq (.Param "showtoc") false) }}
