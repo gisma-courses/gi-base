@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>template course title</title>
+    <link>https://gisma-courses.github.io/gi-base/</link>
+    <description>Recent content on template course title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course one tagged with cat1 tag1</title>
+      <link>https://gisma-courses.github.io/gi-base/post/2021-10-20-cat1/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/post/2021-10-20-cat1/</guid>
+      <description>.myDiv {margin-top: -36px;margin-right: -34%; text-align: right;} Source: Dr. John Snow via wikimedia
+ Rmarkdown examples  highlight on the fly echo hello world;  link to local pdf /gi-base/assets/pdfs/web/viewer.html?file=/gi-base/assets/pdfs/test.pdf   link to gist   link to web image Dr. John Snow’s map of the 1854 cholera outbreak in Soho, London via Wikimedia Commons
+ link to local image   The original dataset (top left) is a terrain model reduced to 8 meters with 48384 single pixels.</description>
+    </item>
+    
+    <item>
+      <title>Course Two tagged with cat2 tag2</title>
+      <link>https://gisma-courses.github.io/gi-base/post/2021-10-20-cat-2/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/post/2021-10-20-cat-2/</guid>
+      <description>Nothing here but cat 2 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gisma-courses.github.io/gi-base/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gisma-courses.github.io/gi-base/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/top/about/</guid>
+      <description>About whatever </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gisma-courses.github.io/gi-base/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/top/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://gisma-courses.github.io/gi-base/top/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/top/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
