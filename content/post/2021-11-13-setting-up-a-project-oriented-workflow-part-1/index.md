@@ -168,7 +168,7 @@ You can leave comments under this gist if you have questions or comments about a
   
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="[gisma-courses/gi-base]"
         issue-term="title"
         theme="github-light"
         crossorigin="anonymous"
