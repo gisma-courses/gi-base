@@ -79,7 +79,7 @@
                 {{ .Content }}
                 
 
-
+                {{ partial "comments.html" . }}
 
                 {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
