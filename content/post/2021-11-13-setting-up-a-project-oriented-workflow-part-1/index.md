@@ -161,8 +161,9 @@ When in doubt (**and before asking your instructor ;-)**), ask Google! Not becau
 
 
 
+
 ## Comments?
-You can leave comments under this gist if you have questions or comments about any of the code chunks that are not included as gist. Please copy the corresponding line into your comment to make it easier to answer the question. 
+If you have questions or comments.  Please copy the corresponding line into your comment to make it easier to answer the question. 
 
   
   
