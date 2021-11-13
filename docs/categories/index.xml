@@ -6,7 +6,25 @@
     <description>Recent content in Categories on template course title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gisma-courses.github.io/gi-base/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formalities</title>
+      <link>https://gisma-courses.github.io/gi-base/categories/formalities/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/categories/formalities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://gisma-courses.github.io/gi-base/categories/prerequisites/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gisma-courses.github.io/gi-base/categories/prerequisites/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cat1</title>
       <link>https://gisma-courses.github.io/gi-base/categories/cat1/</link>
