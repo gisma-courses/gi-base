@@ -1,4 +1,4 @@
-baseurl: https://gisma-courses.github.io/gi-base
+baseurl: https://gisma-courses.github.io/gi-modules
 publishDir: docs
 title: template course title
 theme: hugo-theme-cleanwhite
