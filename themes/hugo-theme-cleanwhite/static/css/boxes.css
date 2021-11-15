@@ -1,0 +1,56 @@
+
+
+p.headline {
+  font-weight: bold;
+  color: black;
+  font-size: 1.7em;
+    margin-top: -36px;
+}  
+
+
+p.textline{
+  color: black;
+  font-size: 1.1em;
+}  
+
+.boxWarning {
+  font-size: .9em;
+  color: #fff;
+  background-color: rgba(217, 83, 79, 0.9);
+  padding: 1px;  
+  border-radius: 5px;
+  overflow: hidden;    
+}
+
+.boxOrange {
+  font-size: .9em;
+  color: #fff;
+  background-color: #FCEAC8;
+  padding: 1px;  
+  border-radius: 5px;
+  overflow: hidden;  
+  
+}
+
+.boxInfo {
+  font-size: .9em;
+  color: #fff;
+  background-color: #DAF2FA;
+  padding: 1px;  
+  border-radius: 5px;
+  overflow: hidden;  
+  
+}
+
+
+.boxSuccess {
+  padding-right: 15px;  
+  padding-left: 15px;  
+  padding-bottom: 8px;
+  padding-top: 0px;
+  font-size: .9em;
+  color: #000;
+  background-color: #CDEFCD;
+  border-radius: 10px;
+
+}

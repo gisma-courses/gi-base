@@ -42,12 +42,21 @@
     {{ end }}
     <!-- end ogp -->
 
+<link rel="stylesheet" href="{{"css/github.min.css" | absURL}}" rel="stylesheet" id="theme-stylesheet">
+<script src="{{ "js/highlight.min.js" | absURL }}"></script>
+<script>hljs.highlightAll();</script>
+
     <meta name="keyword"  content="{{ .Site.Params.keyword }}">
     <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}">
 
     <title>{{ if .Title }}{{ .Title }}-{{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
 
     <link rel="canonical" href="{{ .URL | relURL }}">
+    
+
+  <script src="https://unpkg.com/boxicons@2.0.9/dist/boxicons.js"></script>
+    
+    <link href="{{ .Site.BaseURL }}css/boxes.css" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | relURL }}"/>
 
