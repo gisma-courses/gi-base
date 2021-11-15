@@ -38,7 +38,11 @@ weight: 2
 
 `r blogdown::shortcode("highlight", "bash", .content = "echo hello world;")`
 
-
+```{r eval=FALSE, include=FALSE}
+# blogdown::shortcode("gist", "gisma", d523b154cd5320d51d11de1cee15a85c9")
+```
+ 
+<script src="https://gist.github.com/gisma/d523b154cd5320d51d11de1cee15a85c.js"></script>
 
 
 ## link to local pdf

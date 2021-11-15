@@ -85,8 +85,9 @@ markup:
   tableOfContents:
     endLevel: 2
     startLevel: 1
-goldmark:
-  renderer:
-    unsafe: true
-  tableOfContents:
-    startLevel: 1    
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
+tableOfContents:
+  startLevel: 1    
